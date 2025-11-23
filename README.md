@@ -243,10 +243,11 @@ Creating a Figma-like design tool with:
 ## 📁 Project Structure
 
 ```
-claude-code-taskmaster/
+vibecoded/
 ├── 📄 README.md                    # This file
 ├── 📄 LICENSE                      # MIT License
-└── 📄 taskmaster.md                # Main AI Taskmaster prompt
+├── 📁 agents/
+    └── 📄 taskmaster.md            # Main AI Taskmaster prompt
 
 🚧 under-development 🚧             # (╯T.T)╯︵ ┻━┻
 ├── 📁 e2e/            
@@ -339,8 +340,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **Issues** - [GitHub Issues](https://github.com/nikdelvin/claude-code-taskmaster/issues)
-- **Discussions** - [GitHub Discussions](https://github.com/nikdelvin/claude-code-taskmaster/discussions)
+- **Issues** - [GitHub Issues](https://github.com/nikdelvin/vibecoded/issues)
+- **Discussions** - [GitHub Discussions](https://github.com/nikdelvin/vibecoded/discussions)
 - **Email** - the@nikdelv.in
 - **Twitter/X** - [@nikdelvin](https://twitter.com/nikdelvin)
 

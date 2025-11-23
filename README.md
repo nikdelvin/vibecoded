@@ -1,6 +1,6 @@
-# 🚀 claude-code-taskmaster
+# 🚀 VibeCoded
 
-> AI-powered CLAUDE.md generator for Claude Code Sonnet 4 - Achieve 95% first-attempt code accuracy and 40-70% productivity gains in your web development projects. Full support for Firebase ecosystem, traditional SQL databases, and modern web frameworks.
+> AI-powered CLAUDE.md generator for Claude Code Sonnet 4+ - Achieve 95% first-attempt code accuracy and 40-70% productivity gains in your web development projects. Full support for Firebase ecosystem, traditional SQL databases, and modern web frameworks.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-**claude-md-taskmaster** is a comprehensive prompt system that transforms any AI assistant into an expert CLAUDE.md file generator for Claude Code Sonnet 4. This tool helps developers create structured, optimized project plans that serve as persistent memory for AI-assisted development, dramatically improving code generation accuracy and development velocity.
+**claude-md-taskmaster** is a comprehensive prompt system that transforms any AI assistant into an expert CLAUDE.md file generator for Claude Code Sonnet 4+. This tool helps developers create structured, optimized project plans that serve as persistent memory for AI-assisted development, dramatically improving code generation accuracy and development velocity.
 
 ### What is CLAUDE.md?
 
